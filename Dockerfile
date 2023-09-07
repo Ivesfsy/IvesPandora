@@ -4,7 +4,7 @@ MAINTAINER "Neo Peng <pengzhile@gmail.com>"
 
 VOLUME /data
 
-WORKDIR /opt/app
+WORKDIR /opt/app/bin/startup.sh
 
 ADD . .
 
